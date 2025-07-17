@@ -61,6 +61,4 @@ func main() {
 	fmt.Println(myStack)
 
 	fmt.Println(myStringStack)
-
-
 }
